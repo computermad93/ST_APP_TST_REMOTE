@@ -11,14 +11,23 @@
 small-t testing remote connection to php scripts and mysql
 </description>
 
-<access origin="http://192.168.1.83*" />
+
 
 <author href="https://www.facebook.com/christopher.murrell.397" email="c.murrell93@live.co.uk">
 Chris Murrell
 </author>
 
-<preference name="SMALL-t" value="1.0.0" />
+<preference name="SMALL-t" value="1.0.3" />
 
+<access origin="http://192.168.1.83*" />
+<access origin="http://192.168.1.83/smallt*" />
+
+<access origin="http://192.168.1.83" />
+<access origin="http://192.168.1.83/smallt" />
+
+
+<access origin="http://192.168.1.83*" />
+<access origin="http://192.168.1.83/smallt*" />
 <!-- Icons -->
 
 <icon src="icon.png" />
