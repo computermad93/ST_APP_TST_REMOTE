@@ -11,7 +11,7 @@
 small-t testing remote connection to php scripts and mysql
 </description>
 
-<access origin="http://192.168.79.128*" />
+<access origin="http://192.168.1.83*" />
 
 <author href="https://www.facebook.com/christopher.murrell.397" email="c.murrell93@live.co.uk">
 Chris Murrell
